@@ -5,11 +5,6 @@ def print_string(st)
 @st=st
 puts @st.length
 end
-
-
-
-
-
 end
 ob=String.new
 ob.print_string(n)
